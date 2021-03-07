@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TD_Planete</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="PP_Nom"> Nom: Petit-pain</string>
+    <string name="PP_sup">Origine: France</string>
+    <string name="PP_rot">Composition: Beurre, barre de chocolat, eau, farine, levure, sel, sucre</string>
+
+
+    <string name="Cr_Nom"> Nom: Croissant</string>
+    <string name="Cr_sup">Origine: Autriche</string>
+    <string name="Cr_rot">Composition: Beurre, eau, farine, levure, sel, sucre</string>
+
+
+    <string name="Ti_Nom"> Nom: Tiramisu</string>
+    <string name="Ti_sup">Origine: Italie</string>
+    <string name="Ti_rot">Composition: Oeufs, sucre, mascarpone, alcool, génoise, biscuit, café, cacao</string>
+
+
+    <string name="QQ_Nom"> Nom: Quatrequarts</string>
+    <string name="QQ_sup">Origine: Bretagne</string>
+    <string name="QQ_rot">Composition: farine, sucre, beurre, oeufs</string>
+
+
+    <string name="Br_Nom"> Nom: Brownie</string>
+    <string name="Br_sup">Origine: USA</string>
+    <string name="Br_rot">Composition: farine, beurre, oeufs, chocolat, sucre</string>
+
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
